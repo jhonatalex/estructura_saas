@@ -4,7 +4,7 @@ Este repositorio contiene scripts para crear una estructura de carpetas y archiv
 
 ## 🛠️ Instrucciones
 
-### 🐧 Unix (bash)
+### 🐧 IOS - Unix (bash)
 
 1. Asegúrate de tener permisos de ejecución en el archivo `create_structure.sh`. Puedes otorgar permisos con el siguiente comando:
 
